@@ -11,7 +11,6 @@ Welcome to the frontend repository of your project! This repository contains the
 frontend-repo/
 │-- index.html        # Main HTML file
 │-- styles.css        # CSS styles
-│-- assets/           # Images and other assets
 │-- README.txt        # Project documentation
 ```
 
